@@ -26,6 +26,8 @@ github.com/juagargi/plugin-test v0.0.0-20240305114546-60def341d13f h1:ZqwNemA60P
 github.com/juagargi/plugin-test v0.0.0-20240305114546-60def341d13f/go.mod h1:Wqi32CDe6O2pKot3/hBF37onoybrwdaACcTLnKS0Omo=
 github.com/juagargi/plugin-test v0.0.0-20240305125511-67bd8f1dc097 h1:cKFxwymtadCDtEloqeTcnTCXNuBiJAdtLjMBrbx6D/g=
 github.com/juagargi/plugin-test v0.0.0-20240305125511-67bd8f1dc097/go.mod h1:Wqi32CDe6O2pKot3/hBF37onoybrwdaACcTLnKS0Omo=
+github.com/juagargi/plugin-test v0.0.0-20240305130949-987aa4dfae1b h1:sBQhyBO122CdesQ3hzpuEInQO3pHd/YMjHogg/ZT+U0=
+github.com/juagargi/plugin-test v0.0.0-20240305130949-987aa4dfae1b/go.mod h1:UIMlpXjuGpgDW1qZpcVQ5UDe2uqT6gtAsGlcS03+s6I=
 github.com/onsi/ginkgo/v2 v2.9.5 h1:+6Hr4uxzP4XIUyAkg61dWBw8lb/gc4/X5luuxN/EC+Q=
 github.com/onsi/ginkgo/v2 v2.9.5/go.mod h1:tvAoo1QUJwNEU2ITftXTpR7R1RbCzoZUOs3RonqW57k=
 github.com/onsi/ginkgo/v2 v2.16.0 h1:7q1w9frJDzninhXxjZd+Y/x54XNjG/UlRLIYPZafsPM=
