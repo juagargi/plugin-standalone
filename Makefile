@@ -10,5 +10,5 @@ clean:
 
 update:
 	@echo "Updating main module ..."
-	@go get github.com/juagargi/plugin-test@master
+	@go get github.com/juagargi/plugin-test@HEAD
 	@echo "Done. This might have modified the source code."
