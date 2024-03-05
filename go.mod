@@ -3,7 +3,7 @@ module github.com/juagargi/plugin-standalone
 go 1.21.6
 
 require (
-	github.com/juagargi/plugin-test v0.0.0-20240305130949-987aa4dfae1b
+	github.com/juagargi/plugin-test v0.0.0-20240305132346-d94af9bbce0a
 	github.com/quic-go/quic-go v0.41.0
 )
 
