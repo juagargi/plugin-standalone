@@ -2,7 +2,7 @@
 
 all: build
 
-build: update
+build:
 	@go build -buildmode=plugin .
 
 clean:
